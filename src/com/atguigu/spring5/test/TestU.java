@@ -26,7 +26,7 @@ public class TestU {
 
     public String nametest(String name){
         this.user.setName(name);
-        System.out.println("@@@@");
+        System.out.println("@@@cccccccccccccc@");
         return this.user.getName();
     }
 }
